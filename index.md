@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Sebastian Wyrwal's web page on Github
 
 You can use the [editor on GitHub](https://github.com/wyrwal/public_html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
